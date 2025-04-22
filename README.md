@@ -52,6 +52,7 @@ Welcome to my GitHub profile — I'm a finance enthusiast, derivatives trading a
 ---
 
 > “The market is a device for transferring money from the impatient to the patient.” — Warren Buffett
+> 
 
 Thanks for visiting my GitHub!
 
