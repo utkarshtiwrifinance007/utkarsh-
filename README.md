@@ -40,7 +40,8 @@ Welcome to my GitHub profile — I'm a finance enthusiast, derivatives trading a
 - **Personal Resume Website**: Built with HTML, CSS (check out my [repository](https://github.com/yourusername/utkarsh-resume-site))
 - **Custom Snake Plant Venture**: Turned ₹250 into ₹500 in a 4-day project  
 - **Options Trading Practice**: Paper trading strategies and risk management
-- **Startup Financial Advisor**: Helping scale a labor-oriented business from ₹1 lakh to ₹20 lakh annual revenue
+- **Startup Financial Advisor**: Helping scale a labor-oriented business from ₹1 lakh to ₹20 lakh annual revenue within 4 years
+- 
 
 ---
 
